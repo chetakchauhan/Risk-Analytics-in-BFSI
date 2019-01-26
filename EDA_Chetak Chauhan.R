@@ -4,10 +4,7 @@
 # dataset. Graphs and charts are prepared for different analysis and to show analysis      #
 # done for loan default reasons.                                                           #
 # Please open this file in RStudio for better code readability                             #
-#                                                                                          #
-# Group Facilitator: Rakesh Pattanaik.                                                     #   
-# Group Facilitator Roll No. - DDA1720036                                                  #
-# Group Members: Rakesh Pattanaik, Raju Kumar, Vikrant Singh and Chetak Chauhan            #
+#                                                                                          #         
 ############################################################################################
 
 # Install Required Library ----
